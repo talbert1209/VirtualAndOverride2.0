@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Jewels.cs" />
+    <Compile Include="JewelThief.cs" />
+    <Compile Include="Locksmith.cs" />
     <Compile Include="Owner.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

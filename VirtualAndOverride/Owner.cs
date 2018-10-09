@@ -10,9 +10,6 @@ namespace VirtualAndOverride
         {
             _returnedContents = safeContents;
             Console.WriteLine("Thank you for returning my jewels!" + safeContents.Sparkle());
-
-
-
         }
     }
 }

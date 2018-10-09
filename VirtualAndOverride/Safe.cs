@@ -15,7 +15,7 @@ namespace VirtualAndOverride
 
         public void PickLock(Locksmith lockpicker)
         {
-            lockpicker.WriteDownCombination(safeCombination);
+            lockpicker.WriteDownCombination(_safeCombination);
         }
     }
 }
